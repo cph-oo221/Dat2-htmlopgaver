@@ -1,32 +1,38 @@
-body
+html, body
 {
     background-color: #e7b91b;
-    max-width: 300px;
     margin-left: auto;
     margin-right: auto;
+
+    min-width: 300px;
+
+    min-height: 400px;
 }
 
 .overskriftBold
 {
-    font-family: Helvetica Neue;
+    font-family: "Helvetica-Neue";
     font-size: 275px;
     /*bold*/
     font-weight: bold;
     text-align: center;
     color: #111;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .underoverskrift
 {
-    font-family: Open Sans;
+    font-family: "Open Sans";
     font-size: 30px;
     text-align: center;
     color: #111;
+    margin-bottom: 40px;
 }
 
 p
 {
-    font-family: Helvetica Neue;
+    font-family: "Helvetica-Neue";
     font-size: 14px;
     color: #685206;
 }
