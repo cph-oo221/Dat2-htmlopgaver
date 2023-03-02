@@ -1,0 +1,32 @@
+body
+{
+    background-color: #e7b91b;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.overskriftBold
+{
+    font-family: Helvetica Neue;
+    font-size: 275px;
+    /*bold*/
+    font-weight: bold;
+    text-align: center;
+    color: #111;
+}
+
+.underoverskrift
+{
+    font-family: Open Sans;
+    font-size: 30px;
+    text-align: center;
+    color: #111;
+}
+
+p
+{
+    font-family: Helvetica Neue;
+    font-size: 14px;
+    color: #685206;
+}
