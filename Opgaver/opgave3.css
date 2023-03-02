@@ -9,7 +9,7 @@ html, body
     min-height: 400px;
 }
 
-.overskriftBold
+#overskriftBold
 {
     font-family: "Helvetica-Neue";
     font-size: 275px;
