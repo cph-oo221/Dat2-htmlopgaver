@@ -12,7 +12,7 @@ html, body
 #overskriftBold
 {
     font-family: "Helvetica-Neue";
-    font-size: 275px;
+    font-size: 275em;
     /*bold*/
     font-weight: bold;
     text-align: center;
